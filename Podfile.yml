@@ -4,7 +4,7 @@ metadata:
   name: pod-file
   lables:
    name: pod-file
-   app: test-app
+   app: test1-app
 spec:
   containers:
 
